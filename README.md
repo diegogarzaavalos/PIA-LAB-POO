@@ -1,2 +1,0 @@
-# PIA-LAB-POO
-PIA LAB POO
