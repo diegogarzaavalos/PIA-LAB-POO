@@ -1,0 +1,3 @@
+1,Teclado,Perifericos
+2,Monitor,Pantallas
+3,Laptop,Computo
